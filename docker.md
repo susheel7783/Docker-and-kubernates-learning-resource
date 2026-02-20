@@ -6,6 +6,13 @@ Docker creates an environment where all the required libraries are pre-installed
 
 Problem it Solves: The classic "Works on my machine" problem. It ensures that if an app runs on a developer's Windows laptop, it will run exactly the same on a client's Mac or a Linux server
 
+Docker is an open-source platform that uses containerization to package an application and all its dependencies into a single unit called a container.
+
+Problem Solved: The "Works on my machine" syndrome.
+
+Origin: Introduced in 2013 by DotCloud; now part of the CNCF.
+
+Core Value: Provides a consistent environment from development to production.
 
 ### Key Components:
 * **The Image:** A read-only template (the blueprint).
