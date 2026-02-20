@@ -4,6 +4,7 @@ Docker is an open-source platform that uses **containerization** to package an a
 
 Docker creates an environment where all the required libraries are pre-installed within that container, ensuring the application runs the same way everywhere.
 
+Problem it Solves: The classic "Works on my machine" problem. It ensures that if an app runs on a developer's Windows laptop, it will run exactly the same on a client's Mac or a Linux server
 
 
 ### Key Components:
