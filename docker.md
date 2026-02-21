@@ -96,7 +96,7 @@ docker images -- we can see all the image
 
 docker run -d busybox -- it will run the container in the background keep my terminal free
 
-to get all the command just run--  docker
+to get all the command just run--  docker 
 
 to remove any docker -- docker rm id
 
