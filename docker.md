@@ -88,5 +88,12 @@ lets run busybox
 docker ps -a command wil show all running containers id and all
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/068a1490-18be-4e51-ab21-3a4b4fc5b46b" />
 
+docker stop container_id -- to stop the container
+
+docker images -- we can see all the image
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c02c0251-c233-4819-bfc5-674fda0eb07d" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c02c0251-c233-4819-bfc5-674fda0eb07d" />
+
+
 
 
