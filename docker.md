@@ -62,3 +62,14 @@ Containers: Run on top of the Docker Engine and utilize the Host OS resources di
 
 we can create or pull inbuilt image,here we are pulling hello-world image and running
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7acc446e-e2e1-43a8-a646-10ec29f6f2a7" />
+
+to see all the command, use docker command
+
+First, we create a Dockerfile, which serves as a 'Chitthe' or a list of instructions. We provide all the necessary commands in this file to build an Image. Once built, this image acts as a read-only blueprint containing the application code and all required libraries. Finally, we run this image to create a Container, which is the live, runnable instance of the application.
+
+Key Takeaways for your .md file:
+Dockerfile: The Instruction Set (The "Chitthe").
+
+Image: The Blueprint (The "Answer Script").
+
+Container: The Runtime Instance.
