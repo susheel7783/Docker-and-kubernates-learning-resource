@@ -101,6 +101,10 @@ to get all the command just run--  docker
 to remove any docker -- docker rm id
 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a57a3d62-6b8d-4cd3-9557-31ea1214671f" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/123a6066-7599-4ba6-9a09-f1dbc96bb39a" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c869bd23-713a-428a-9fec-d9e97abf4019" />
+
+
 
 
 
