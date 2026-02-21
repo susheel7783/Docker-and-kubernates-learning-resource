@@ -81,5 +81,12 @@ Container: The Runtime Instance.
 we can run the code in terminal or docker terminal
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/40121ec5-df37-4d46-b02f-b51cea67b6d4" />
 
+we can pull image from docker hub 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ce5ac444-5aca-4e4a-94ee-07004e863d44" />
+lets run busybox
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/691f262b-9cdd-465b-a07b-3cf788392e75" />
+docker ps -a command wil show all running containers id and all
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/068a1490-18be-4e51-ab21-3a4b4fc5b46b" />
+
 
 
