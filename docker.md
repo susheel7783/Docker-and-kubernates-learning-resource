@@ -52,3 +52,10 @@ The main reason is **consistency**. It solves the classic *"It worked on my mach
 | **OS Structure** | Each Virtual Machine (VM) includes its own full **Guest OS**. | Containers do not have their own OS; they share the **Host OS kernel**. |
 | **Resource Usage** | **Heavyweight**: Requires significant RAM and CPU to run a full OS. | **Lightweight**: Much smaller as they only package necessary libraries and code. |
 | **Efficiency** | On an 8GB machine, you might only run 1 or 2 VMs. | On an 8GB machine, you can run dozens of containers simultaneously. |
+
+
+Architecture Differences
+
+Virtual Machines: Sit on top of a Hypervisor, which manages hardware resources for multiple Guest OS instances (Windows, Mac, or Linux).
+
+Containers: Run on top of the Docker Engine and utilize the Host OS resources directly without needing a separate Guest OS layer.
