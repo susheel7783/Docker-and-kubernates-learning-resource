@@ -6,7 +6,9 @@ Docker creates an environment where all the required libraries are pre-installed
 
 Problem it Solves: The classic "Works on my machine" problem. It ensures that if an app runs on a developer's Windows laptop, it will run exactly the same on a client's Mac or a Linux server
 
-Docker is an open-source platform that uses containerization to package an application and all its dependencies into a single unit called a container.
+Docker is an open-source platform that uses containerization to package an application and all its dependencies into a single unit called a container. and then we ship this container to the client via image and we can run this image on any computer
+
+in docker we are creating virtual env or creating container and because of that virtual env it works on different computer
 
 Problem Solved: The "Works on my machine" syndrome.
 
