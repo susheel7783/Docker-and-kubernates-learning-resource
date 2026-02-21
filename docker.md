@@ -60,5 +60,5 @@ Virtual Machines: Sit on top of a Hypervisor, which manages hardware resources f
 
 Containers: Run on top of the Docker Engine and utilize the Host OS resources directly without needing a separate Guest OS layer.
 
-we can create or pull inbuilt image
+we can create or pull inbuilt image,here we are pulling hello-world image and running
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7acc446e-e2e1-43a8-a646-10ec29f6f2a7" />
