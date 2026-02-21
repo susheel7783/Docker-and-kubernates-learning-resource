@@ -94,6 +94,14 @@ docker images -- we can see all the image
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c02c0251-c233-4819-bfc5-674fda0eb07d" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/c02c0251-c233-4819-bfc5-674fda0eb07d" />
 
+docker run -d busybox -- it will run the container in the background keep my terminal free
+
+to get all the command just run--  docker
+
+to remove any docker -- docker rm id
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a57a3d62-6b8d-4cd3-9557-31ea1214671f" />
+
 
 
 
