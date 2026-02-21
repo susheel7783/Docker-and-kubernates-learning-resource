@@ -60,6 +60,9 @@ Virtual Machines: Sit on top of a Hypervisor, which manages hardware resources f
 
 Containers: Run on top of the Docker Engine and utilize the Host OS resources directly without needing a separate Guest OS layer.
 
+docker pull - just pull the file
+
+docker run - pull and run the file
 we can create or pull inbuilt image,here we are pulling hello-world image and running
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7acc446e-e2e1-43a8-a646-10ec29f6f2a7" />
 
@@ -67,9 +70,16 @@ to see all the command, use docker command
 
 First, we create a Dockerfile, which serves as a 'Chitthe' or a list of instructions. We provide all the necessary commands in this file to build an Image. Once built, this image acts as a read-only blueprint containing the application code and all required libraries. Finally, we run this image to create a Container, which is the live, runnable instance of the application.
 
-Key Takeaways for your .md file:
-Dockerfile: The Instruction Set (The "Chitthe").
+And we can pull a prebuilt Docker image
 
-Image: The Blueprint (The "Answer Script").
+Dockerfile: The Instruction Set.
+
+Image: The Blueprint .
 
 Container: The Runtime Instance.
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a4bd780c-1375-4283-9b40-3316255d3a1d" />
+we can run the code in terminal or docker terminal
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/40121ec5-df37-4d46-b02f-b51cea67b6d4" />
+
+
+
